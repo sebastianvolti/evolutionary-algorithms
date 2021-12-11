@@ -1,0 +1,3 @@
+PLAYER_AA = 0
+PLAYER_AE = 1
+ROWS = 5
